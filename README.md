@@ -8,7 +8,7 @@ Program Elektronika Daya dengan Proteus 8.11 Pro
 •	Download Proteus Pro 8.11 https://drive.google.com/file/d/1SqLdVgLezJHCDS34WtvK6GITcXdAwDNX/view?usp=sharing
 
 ## Langkah-Langkah
-1) 1.	Download, install, dan jalankan Proteus Pro 8.11
+1) Download, install, dan jalankan Proteus Pro 8.11
 2.	Apabila di devices “libraries not found!”, close program proteus 
 3.	Cari proteus 8 install directory di file explorer “C:\Program Files (x86)\Labcenter Electronics”
 4.	Pilih, Klik kanan, properties
